@@ -16,6 +16,11 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+          <a href="https://mbp.hatenablog.com/entry/2022/07/09/201047" target="_blank">
+            環境構築
+         </a>
+       </p>
       </header>
     </div>
   );
