@@ -2,7 +2,7 @@ import logo from "./logo.svg";
 import * as React from "react";
 import "./App.css";
 import "./Counter.css";
-import React, { useState } from 'react'
+import { useState } from 'react'
 
 function Counter() {
   // countの初期値として、1~10までのランダムな数値を生成
